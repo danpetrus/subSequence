@@ -1,0 +1,13 @@
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\bin\Debug\netcoreapp3.1\SubSequenceArr.exe
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\bin\Debug\netcoreapp3.1\SubSequenceArr.deps.json
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\bin\Debug\netcoreapp3.1\SubSequenceArr.runtimeconfig.json
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\bin\Debug\netcoreapp3.1\SubSequenceArr.runtimeconfig.dev.json
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\bin\Debug\netcoreapp3.1\SubSequenceArr.dll
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\bin\Debug\netcoreapp3.1\SubSequenceArr.pdb
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.csprojAssemblyReference.cache
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.csproj.CoreCompileInputs.cache
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.AssemblyInfoInputs.cache
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.AssemblyInfo.cs
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.dll
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.pdb
+C:\Users\petrusm\source\repos\SubSequenceArr\SubSequenceArr\obj\Debug\netcoreapp3.1\SubSequenceArr.genruntimeconfig.cache
